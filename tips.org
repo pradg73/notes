@@ -1,0 +1,4 @@
+** lower_bound
+find items <= something
+
+https://en.cppreference.com/w/cpp/algorithm/lower_bound
