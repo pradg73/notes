@@ -1,21 +1,23 @@
-*** init
-**** genesis
-{
-  "config": {
-        "chainId": 50,
-        "homesteadBlock": 0,
-        "eip155Block": 0,
-        "eip158Block": 0
-    },
-  "alloc"      : {},
-  "coinbase"   : "0x0000000000000000000000000000000000000000",
-  "difficulty" : "0x20000",
-  "extraData"  : "",
-  "gasLimit"   : "0x2fefd8",
-  "nonce"      : "0x0000000000000042",
-  "mixhash"    : "0x0000000000000000000000000000000000000000000000000000000000000000",
-  "parentHash" : "0x0000000000000000000000000000000000000000000000000000000000000000",
-  "timestamp"  : "0x00"
-}
-
-./geth --datadir=/tmp/miner init /tmp/genesis.json
+DEVCON1: Understanding the Ethereum Blockchain Protocol - Vitalik Buterin
+https://www.youtube.com/watch?v=gjwr-7Pgp8
+https://www.coindesk.com/learn/ethereum-101/who-created-ethereum
+https://etherscan.io/block/0
+https://www.wsj.com/articles/bitcoin-cash-litecoin-ether-oh-my-whats-with-all-the-bitcoin-clones-1514037600
+https://qz.com/1145833/cryptokitties-is-causing-ethereum-network-congestion/
+https://etherscan.io/chartsync/chaindefault
+https://ethresear.ch/t/cross-shard-defi-composability/6268
+https://www.theverge.com/2019/7/4/20682109/bitcoin-energy-consumption-annual-calculation-cambridge-index-cbeci-country-comparison
+Ewasm: Ethereum-flavored WebAssembly and Ethereum 2.0 - Part 1 (Devcon4)	https://www.youtube.com/watch?v=LXMGyHFmTr8
+Devcon4 Keynote - Vitalik Buterin	https://www.youtube.com/watch?v=Km9BaxRm1wA&t=1152s
+https://docs.google.com/presentation/d/1_C_79ilyX0BsyMnSY84M3DoItPU9hBNxnvUEWOOLN7k/edit#slide=id.g620ddc5326_1_3106
+Sharding - Vitalik Buterin	https://vod.video.cornell.edu/media/Sharding+-+Vitalik+Buterin/1_1xezsfb4/97851101
+Vitalik Buterin: ETH 2.0 Driven by Simplified Sharding, Optimistic Rollups..	https://www.podbean.com/media/share/pb-6euzq-c47e25
+ETHEREUM’S DANNY RYAN: THE DEFINITIVE ETH 2.0 UPDATE	https://fiftyonepercent.podbean.com/e/danny-ryan-release-week-after/
+Economics of Ethereum 2.0 by Collin Myers (Devcon5)	https://www.youtube.com/watch?v=9LlNUC68e8I
+SFBW19 - Hybrid Layer 2 Protocols - Vitalik Buterin	https://www.youtube.com/watch?v=YaTVwtIrxSM
+The Road to Eth 2, Phase 2 & Phase 2 Testnet (Devcon5)	https://www.youtube.com/watch?v=8yMh0Nxyqks&t=571s
+https://notes.ethereum.org/@vbuterin/HkiULaluS
+https://github.com/ethereum/wiki/wiki/Sharding-roadmap#strongphase-3strong-light-client-state-protocol
+https://www.coindesk.com/ethereum-blockchain-feeling-the-difficulty-bomb-effect
+https://medium.com/@william.j.villanueva/ethereum-2-0-phase-2-progress-7673b57eabff
+https://medium.com/ethereum-cat-herders/istanbul-testnets-are-coming-53973bcea7df
