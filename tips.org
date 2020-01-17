@@ -2,3 +2,10 @@
 find items <= something
 
 https://en.cppreference.com/w/cpp/algorithm/lower_bound
+
+** Online classes
+grokking the system design interview
+https://www.educative.io/courses/grokking-the-system-design-interview
+high scalability blog 
+** books
+
