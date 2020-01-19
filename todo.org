@@ -1,2 +1,3 @@
 * questions incomplete or stuck from prep:
 37 min max riddle
+38 castle grid
