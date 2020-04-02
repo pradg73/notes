@@ -1,6 +1,9 @@
-** lower_bound
-find items <= something
+* bit manip
+** xor
+a⊕b⊕a=(a⊕a)⊕b=0⊕b=b
 
+* lower_bound
+find items <= something
 https://en.cppreference.com/w/cpp/algorithm/lower_bound
 
 ** Online classes
