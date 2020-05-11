@@ -1,3 +1,12 @@
+* gcd
+https://en.wikipedia.org/wiki/Euclidean_algorithm
+#+begin_src python
+function gcd(a, b)
+    if b = 0
+        return a
+    else
+        return gcd(b, a mod b)
+#+end_src        
 * prority queue
 
 *** api just like stack
