@@ -1,0 +1,7 @@
+A command to properly indent the code in a region is customarily bound to M-C-\.
+
+The last command, M-m, is pure gold dust. When you type
+M-m, the point will move to the beginning of the line and
+
+The Theory of Movement
+move forward until it encounters a non-whitespace character;
