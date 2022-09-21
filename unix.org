@@ -12,3 +12,4 @@ sudo vi /etc/inputrc
 
 re-read-init-file (C-x C-r)
 Read in the contents of the inputrc file, and incorporate any bindings or variable assignments found there.
+ 
